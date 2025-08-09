@@ -55,10 +55,10 @@ When you run the program, you'll see:
 
 **Example: Adding a Contact**
 ```
-Full Name: Amar Deep
-Phone Number: 9876543210
-Email Address: amar@example.com
-✔ Contact for 'Amar Deep' saved successfully.
+Full Name: Lucky 
+Phone Number: +91 9026510627
+Email Address: lucky@example.com
+✔ Contact for 'Lucky' saved successfully.
 ```
 
 ---
